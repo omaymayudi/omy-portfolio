@@ -52,7 +52,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Tailwind", "React"],
   },
   {
-    title: "E-Commerce Website",
+    title: "Website Travel",
     linkGithub: "https://github.com/omaymayudi/slicing-landing-page-travel",
     linkFigma:
       "https://www.figma.com/design/uhEpNIdls5vuEaZ1ChjLof/Travel?node-id=0-1&t=8kCNO9jYFQvdso1s-0",
