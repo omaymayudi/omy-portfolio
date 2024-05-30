@@ -34,8 +34,8 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "https://slicing-epictetus-blog.vercel.app",
-    linkGithub: "https://github.com/omaymayudi/slicing-epictetus-blog",
+    title: "Epictetus Blog",
+    linkGithub: "https://slicing-epictetus-blog.vercel.app/",
     linkFigma:
       "https://www.figma.com/design/pBMZHBSjBGHSobIAJaExdb/Epictetus-(Copy)?node-id=639-2&t=a3pR0JSnhHBkYi8V-0",
     image: project2,
@@ -44,7 +44,7 @@ export const PROJECTS = [
   },
   {
     title: "Website Learning courses",
-    linkGithub: "https://responsive-website-learning.vercel.app",
+    linkGithub: "https://responsive-website-learning.vercel.app/",
     linkFigma:
       "https://www.figma.com/design/t0106D0kOmmQm10eOUZLEi/Belajar-Responsive-Website-Next-Js-dan-Tailwind-CSS-(Community)?node-id=907-139&t=p5jq4UiZA1F1ZNKH-0",
     image: project3,
