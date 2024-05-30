@@ -28,7 +28,10 @@ const Navbar = () => {
             delay: 1,
           }}
         >
-          <a href="https://www.linkedin.com/in/mayudi-bin-jakaria-104828236/">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/mayudi-bin-jakaria-104828236/"
+          >
             <FaLinkedin />
           </a>
         </motion.span>
@@ -38,7 +41,7 @@ const Navbar = () => {
             delay: 1,
           }}
         >
-          <a href="https://www.instagram.com/omaymayud">
+          <a target="_blank" href="https://www.instagram.com/omaymayud">
             <FaInstagram />
           </a>
         </motion.span>
@@ -49,7 +52,7 @@ const Navbar = () => {
             delay: 1,
           }}
         >
-          <a href="https://github.com/omaymayudi">
+          <a target="_blank" href="https://github.com/omaymayudi">
             <FaGithub />
           </a>
         </motion.span>
@@ -60,7 +63,7 @@ const Navbar = () => {
             delay: 1,
           }}
         >
-          <a href="https://x.com/omaymayud05">
+          <a target="_blank" href="https://x.com/omaymayud05">
             <FaXTwitter />
           </a>
         </motion.span>
