@@ -2,6 +2,8 @@ import project1 from "../assets/projects/travel-landing-page.png";
 import project2 from "../assets/projects/Epictetus.png";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/Paws-n-Play.jpg";
+import project6 from "../assets/projects/todo.jpg";
 
 export const HERO_CONTENT = `Hello, this is the portfolio that I made. I am IT Support but this time want to try as front-end developer. With front-end technologies like Tailwind, React, and Next.js as weel as a little back-end technologies like Node.js, Express.js and MySql which has been built for almost last 3 years. So I can create a web application which is strong and responsive.`;
 
@@ -33,6 +35,31 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Paws n’ Play",
+    linkGithub: "https://pawns-n-play-ecommerce.vercel.app/",
+    linkFigma:
+      "https://www.figma.com/design/1cVA0Yl3st1410Muli0DHp/Free-responsive-E-commerce-landing-page-template-Desktop-%26-Mobile-%7Bincluding-image%7D-(Community)-(Copy)?node-id=3-7&t=q6xfMBUooleENUNr-0",
+    image: project5,
+    description: "Slicing Landing Page web Paws n’ Play ",
+    technologies: ["HTML", "CSS", "Tailwind", "React"],
+  },
+  {
+    title: "Todo List",
+    linkGithub: "https://github.com/omaymayudi/todo-app-redux",
+    linkFigma: "",
+    image: project6,
+    description: "Application todo list whit",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "React",
+      "Json-Server",
+      "Axios",
+      "Redux",
+    ],
+  },
   {
     title: "Epictetus Blog",
     linkGithub: "https://slicing-epictetus-blog.vercel.app/",
