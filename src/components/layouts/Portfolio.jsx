@@ -27,7 +27,7 @@ const Portfolio = () => {
               initial={{ opacity: 0, x: -100 }}
               transition={{ duration: 0.5, delay: 1 }}
               whileHover={{
-                scale: 4,
+                scale: 2,
                 delay: 0.5,
               }}
               className="flex w-full lg:w-1/4 justify-center items-center"
